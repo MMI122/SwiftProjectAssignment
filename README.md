@@ -68,6 +68,14 @@ FirebaseProjectLab45/
 ### Screenshot 4
 ![Screenshot 4](screenshot4.jpeg)
 
+## Demo Video
+
+Watch the app in action:
+
+https://github.com/MMI122/SwiftProjectAssignment/assets/2026-02-19%2010-36-06.mp4
+
+Or download the video: [2026-02-19 10-36-06.mp4](2026-02-19%2010-36-06.mp4)
+
 ## Code Snippets (copied from your actual files)
 
 ### 1) Firebase initialization (`FirebaseProjectLab45/FirebaseProjectLab45App.swift`)
