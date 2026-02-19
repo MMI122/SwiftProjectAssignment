@@ -1,0 +1,63 @@
+# Xcode
+DerivedData/
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+!FirebaseProjectLab45/FirebaseProjectLab45.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+# Secrets / local config
+*.p12
+*.mobileprovision
+*.provisionprofile
+*.key
+*.pem
+*.cer
+*.crt
+*.p8
+*.jks
+*.keystore
+*.env
+.env*
+*.xcconfig
+*.orig
+
+# Firebase local config 
+GoogleService-Info.plist
+**/GoogleService-Info.plist
+**/GoogleService-Info-*.plist
+**/._GoogleService-Info.plist
+**/Preview Content/GoogleService-Info.plist
